@@ -6,16 +6,16 @@ The [previous practical](https://github.com/KF5012-AI2020/Practical1) covered: a
 
 In [this practical](https://github.com/KF5012-AI2020/Practical2) you will explore, analyse, and process real world datasets and apply some simple machine learning methods.
 
-## Set up your notebook
-Open up this repository in [binder](...) to get started.
-
 ## What is in this Practical Session
-1. ?
-2. ?
-3. ?
-4. ?
+1. Introduction to Data Analysis
+2. Introduction to Data Pipelines
+3. Introduction to Regression
+4. Introduction to Classification
 5. Exercises
 
 It is suggested to read the notebooks in the above order. You can also try the Exercises while you read through the notebooks
 
-If you have any questions, my email is ??
+## Set up your notebook
+Open up this repository in [binder](...) to get started.
+
+If you have any questions, my email is matthew.higgs@northumbria.ac.uk
